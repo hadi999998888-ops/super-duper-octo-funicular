@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nova AutoClicker</string>
+    <string name="accessibility_service_description">Служба Nova AutoClicker для выполнения автоматических касаний по выбранным координатам.</string>
+    <string name="status_off">Статус: ВЫКЛЮЧЕН</string>
+    <string name="status_on">Статус: РАБОТАЕТ</string>
+    <string name="start">▶ СТАРТ</string>
+    <string name="stop">■ СТОП</string>
+    <string name="toggle_target">🎯 ПОКАЗАТЬ / СКРЫТЬ ЦЕЛЬ</string>
+    <string name="minimize">− СВЕРНУТЬ</string>
+    <string name="close">× ЗАКРЫТЬ</string>
+</resources>

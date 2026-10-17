@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.NovaAutoClicker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFD700</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <style name="Theme.NovaAutoClicker" parent="Base.Theme.NovaAutoClicker" />
+</resources>
